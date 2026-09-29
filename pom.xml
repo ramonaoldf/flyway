@@ -189,7 +189,7 @@
         <version.mysql>8.0.17</version.mysql>
         <version.oracle>19.6.0.0</version.oracle>
         <version.osgi>4.3.1</version.osgi>
-        <version.postgresql>42.2.14</version.postgresql>
+        <version.postgresql>42.7.12</version.postgresql>
         <version.redshift>1.2.10.1009</version.redshift>
         <version.sap>2.2.3</version.sap>
         <version.slf4j>1.7.30</version.slf4j>
